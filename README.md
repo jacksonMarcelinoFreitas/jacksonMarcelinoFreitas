@@ -1,4 +1,4 @@
-### Hello, I am Jackson!
+### Hello, I am Jack!
 
 <div align="center">
   <a href="https://github.com/jacksonMarcelinoFreitas">
