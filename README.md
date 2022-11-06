@@ -2,7 +2,7 @@
   <img src="https://github.com/jacksonMarcelinoFreitas/jacksonMarcelinoFreitas/blob/main/images/Capa%20GitHub.png"></img>
 </div>
 <h2>🚀Skills</h2>
-<div style="display: inline_block">
+<div style="display: block">
       <img alt="JavaScript" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
       <img alt="React" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       <img alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
