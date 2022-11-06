@@ -1,12 +1,9 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/88464195/184963512-263d519c-232d-482c-a803-f371ba54ccfa.png"></img>
 </div>
-
-<div align="center" style="display:flex;">
-  <img height="250" style="filter: hue-rotate(89deg);" src="https://user-images.githubusercontent.com/88464195/198908213-33013169-f6e6-4a9e-8d12-d05abf4f17cc.gif"></img>
-  <div align="center" style="display:flex; justify-content:center; align-items:center; flex-direction: column; background-color: #3C1E52; width: 100%">
-    <h1>🚀Skills</h1>
-    <div style="display:flex; gap:16px; justify-content:center; align-items:center;>
+<h1>🚀Skills</h1>
+<div style="display: inline_block">
+    <div>
       <img alt="C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
       <img alt="C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
       <img alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -17,6 +14,7 @@
       <img alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
       <img alt="Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       <img alt="SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      <img height="250" src="https://user-images.githubusercontent.com/88464195/198908213-33013169-f6e6-4a9e-8d12-d05abf4f17cc.gif"></img>
     </div>
   </div>
 </div>
