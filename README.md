@@ -21,8 +21,8 @@
 ##
 
 <div>
-  <a href="https://www.instagram.com/jacksonm.f/" target="_blank" height="40">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a href="https://www.instagram.com/jacksonm.f/">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="40">
   </a>
   <a href = "mailto: jacksonzitap.mc@gmail.com"  target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
