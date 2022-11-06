@@ -25,10 +25,10 @@
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="40">
   </a>
   <a href = "mailto: jacksonzitap.mc@gmail.com"  target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="40">
   </a>
   <a href="https://www.linkedin.com/in/jackson-marcelino-de-freitas-900a18209/" target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="40">
   </a>
 
 ![Snake animation](https://github.com/jacksonMarcelinoFreitas/jacksonMarcelinoFreitas/blob/output/github-contribution-grid-snake.svg)
