@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/88464195/184963512-263d519c-232d-482c-a803-f371ba54ccfa.png"></img>
+  <img src="https://github.com/jacksonMarcelinoFreitas/jacksonMarcelinoFreitas/blob/main/images/Capa%20GitHub.png"></img>
 </div>
 <h1>🚀Skills</h1>
 <div style="display: inline_block">
