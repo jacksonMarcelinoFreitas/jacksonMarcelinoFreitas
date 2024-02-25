@@ -16,4 +16,5 @@
     <img alt="HTML" height="20" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black">
     <img alt="HTML" height="20" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
     <img alt="HTML" height="20" src="https://img.shields.io/badge/spring-boot?style=flat-square&logo=spring&logoColor=white">
+    <img alt="HTML" height="20" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 </div>
